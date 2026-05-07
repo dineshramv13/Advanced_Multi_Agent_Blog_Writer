@@ -4,7 +4,8 @@ import re
 import time
 
 
-API_URL = "http://localhost:8000"
+# API_URL = "http://localhost:8000" uncomment this if running locally
+API_URL = "http://backend:8000"
 
 st.set_page_config(layout="wide")
 
