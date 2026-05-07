@@ -1,0 +1,15 @@
+fastapi
+Flask
+uvicorn
+streamlit
+langgraph
+
+langchain
+langchain-openai
+langchain-community
+langchain-classic  
+langchain-tavily
+langchain-core
+python-dotenv
+pydantic
+requests
